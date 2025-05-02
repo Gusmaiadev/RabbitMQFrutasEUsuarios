@@ -265,3 +265,8 @@ Este projeto demonstra a implementação de um sistema de mensageria completo ut
 - Validação de mensagens com regras de negócio customizáveis
 - Desacoplamento entre produtores e consumidores
 
+## 👥 Grupo
+- **Nome:** Gustavo Araújo Maia **RM:** 553270
+- **Nome:** Rafael Vida Fernandes **RM:** 553721
+- **Nome:** Kauã Almeida Silveira **RM:** 552618
+- **Turma:** 2TDSPS
