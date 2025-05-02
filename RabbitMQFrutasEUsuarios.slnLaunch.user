@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "..\\Validation.Service\\Validation.Service.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Receiver1.ConsumidorFrutas\\Receiver1.ConsumidorFrutas.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Receiver2.ConsumidorUsuario\\Receiver2.ConsumidorUsuario.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Sender1.InfoFrutas\\Sender1.InfoFrutas.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Sender2.InfoUsuario\\Sender2.InfoUsuario.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
